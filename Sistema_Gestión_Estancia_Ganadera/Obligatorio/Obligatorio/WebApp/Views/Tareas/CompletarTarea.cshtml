@@ -1,0 +1,31 @@
+﻿@model Obligatorio.Dominio.AsignacionTarea
+<h1>Completar Tarea</h1>
+<br />
+<br />
+<form method="post">
+    <table>
+        <thead>
+        </thead>
+        <tbody>
+            <tr>
+                <td><label>Ingrese ID de Tarea:</label></td>
+                <td>
+                    <select name="idTarea">
+                        @foreach (var item in @ViewBag.AsignacionTareas)
+                        {
+                            <option value="@item.Tarea.ID">@item.Tarea.ID - @item.Tarea.Descripcion</option>
+                        }
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td><label>Ingrese Comentario:</label></td>
+                <td><input asp-for="Tarea.Comentario" name="pComentario" /></td>
+            </tr>
+        </tbody>
+    </table>
+    <br />
+    <input type="submit" value="Completar" />
+    @ViewBag.Mensaje
+    <hr />
+</form>

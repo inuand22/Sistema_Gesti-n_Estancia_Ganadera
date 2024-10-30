@@ -1,0 +1,60 @@
+﻿@model List<Obligatorio.Dominio.Bovino>
+<h1>Lista Bovinos</h1>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        padding: 8px 12px;
+        border: 1px solid #ddd;
+        text-align: center;
+    }
+
+    th {
+        background-color: #f4f4f4;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+</style>
+<table>
+    <thead>
+        <tr>
+            <th>Numero de Caravana</th>
+            <th>Es Macho?</th>
+            <th>Raza</th>
+            <th>Fecha de Nacimiento</th>
+            <th>Costo de Adquisición</th>
+            <th>Costo de Alimentación</th>
+            <th>Peso Actual</th>
+            <th>Es Hibrido?</th>
+            <th>Se Alimenta Por Grano?</th>
+            <th>Potencial Ganancia de Venta</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.NumCaravana</td>
+                <td>@item.EsMacho</td>
+                <td>@item.Raza</td>
+                <td>@item.FechaNacimiento.ToShortDateString()</td>
+                <td>@item.CostoAdquisicion</td>
+                <td>@item.CostoAlimentacion</td>
+                <td>@item.PesoActual</td>
+                <td>@item.EsHibrido</td>
+                <td>@item.SeAlimentaPorGrano</td>
+                <td>@item.GananciaVentaIndividual.ToString("0.0")</td>
+            </tr>
+        }
+    </tbody>
+</table>

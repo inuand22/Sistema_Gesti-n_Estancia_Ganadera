@@ -1,0 +1,24 @@
+﻿@model Obligatorio.Dominio.Empleado
+<h1>INGRESO EMPLEADOS</h1>
+<br />
+<br />
+<form method="post">
+    <table>
+        <thead>
+        </thead>
+        <tbody>
+            <tr>
+                <td><label>Email:</label></td>
+                <td><input type="text" name="email" /></td>
+            </tr>
+            <tr>
+                <td><label>Contraseña:</label></td>
+                <td><input type="password" name="contraseña" /></td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Ingresar" /></td>
+            </tr>
+        </tbody>
+    </table>
+</form>
+@ViewBag.Mensaje

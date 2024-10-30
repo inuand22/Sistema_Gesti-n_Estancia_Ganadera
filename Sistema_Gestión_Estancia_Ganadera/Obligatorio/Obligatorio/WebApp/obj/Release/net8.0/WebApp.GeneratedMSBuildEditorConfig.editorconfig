@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApp
+build_property.RootNamespace = WebApp
+build_property.ProjectDir = C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (26)\Obligatorio\Obligatorio\WebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (26)\Obligatorio\Obligatorio\WebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Empleado/EditCapataz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cRWRpdENhcGF0YXouY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Empleado/EditPeon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cRWRpdFBlb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Empleado/IngresoEmpleados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cSW5ncmVzb0VtcGxlYWRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Empleado/InicioCapataz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cSW5pY2lvQ2FwYXRhei5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Empleado/InicioPeon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cSW5pY2lvUGVvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Empleado/ListaPeones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cTGlzdGFQZW9uZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Empleado/RegistroPeon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cUmVnaXN0cm9QZW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Ganado/MostrarAnimal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FuYWRvXE1vc3RyYXJBbmltYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Ganado/MostrarBovinos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FuYWRvXE1vc3RyYXJCb3Zpbm9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Ganado/MostrarOvinos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FuYWRvXE1vc3RyYXJPdmlub3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Ganado/RegistrarNuevoBovino.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FuYWRvXFJlZ2lzdHJhck51ZXZvQm92aW5vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Inicio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Potrero/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG90cmVyb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Potrero/ListaPotreros.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG90cmVyb1xMaXN0YVBvdHJlcm9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Tareas/AsignarTarea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFzXEFzaWduYXJUYXJlYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Tareas/CompletarTarea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFzXENvbXBsZXRhclRhcmVhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Tareas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Tareas/ListaTareasPeon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFzXExpc3RhVGFyZWFzUGVvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Vacunacion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjdW5hY2lvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/Desktop/ORT/PROGRAMACIÓN II/OBLIGATORIO/SEGUNDA ENTREGA/AA 295384 Segunda Entrega (26)/Obligatorio/Obligatorio/WebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7882z672yd

@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Obligatorio.Dominio.AsignacionTarea>
+<h1>TAREAS PENDIENTES</h1>
+<style>
+	table {
+		text-align: center;
+	}
+</style>
+<table class="centered-table">
+	<thead>
+		<tr>
+			<th>ID TAREA</th>
+			<th>DESCRIPCIÓN</th>
+			<th>FECHA DE REALIZACIÓN</th>
+			<th>FUE COMPLETADA</th>
+			<th>FECHA CIERRE</th>
+			<th>COMENTARIOS</th>		
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@item.Tarea.ID</td>
+				<td>@item.Tarea.Descripcion</td>
+				<td>@item.Tarea.FechaRealizacion.ToString("dd/MM/yyyy")</td>
+				<td>@item.Tarea.FueCompletada</td>
+				<td>@item.Tarea.FechaCierre.ToShortDateString()</td>
+				<td>@item.Tarea.Comentario</td>				
+			</tr>
+		}
+	</tbody>
+</table>
+<a href="Tareas/CompletarTarea">Completar Tarea Pendiente</a>

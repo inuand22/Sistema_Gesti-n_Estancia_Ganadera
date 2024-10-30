@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Obligatorio/1.0.0": {
+        "dependencies": {
+          "MiApp": "1.0.0"
+        },
+        "runtime": {
+          "Obligatorio.dll": {}
+        }
+      },
+      "MiApp/1.0.0": {
+        "runtime": {
+          "MiApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Obligatorio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

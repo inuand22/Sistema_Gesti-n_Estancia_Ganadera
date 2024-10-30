@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A55EC5F-1C68-484B-8415-4E22277B5471}|WebApp\\WebApp.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n ii\\obligatorio\\segunda entrega\\aa 295384 segunda entrega final\\obligatorio\\obligatorio\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A55EC5F-1C68-484B-8415-4E22277B5471}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A55EC5F-1C68-484B-8415-4E22277B5471}|WebApp\\WebApp.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n ii\\obligatorio\\segunda entrega\\aa 295384 segunda entrega final\\obligatorio\\obligatorio\\webapp\\views\\empleado\\iniciopeon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A55EC5F-1C68-484B-8415-4E22277B5471}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\empleado\\iniciopeon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A55EC5F-1C68-484B-8415-4E22277B5471}|WebApp\\WebApp.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n ii\\obligatorio\\segunda entrega\\aa 295384 segunda entrega final\\obligatorio\\obligatorio\\webapp\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A55EC5F-1C68-484B-8415-4E22277B5471}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5123131-BAB2-45D0-BE20-57411F0EB14D}|MiApp\\Dominio.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n ii\\obligatorio\\segunda entrega\\aa 295384 segunda entrega final\\obligatorio\\obligatorio\\miapp\\vacunacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5123131-BAB2-45D0-BE20-57411F0EB14D}|MiApp\\Dominio.csproj|solutionrelative:miapp\\vacunacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5123131-BAB2-45D0-BE20-57411F0EB14D}|MiApp\\Dominio.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n ii\\obligatorio\\segunda entrega\\aa 295384 segunda entrega final\\obligatorio\\obligatorio\\miapp\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5123131-BAB2-45D0-BE20-57411F0EB14D}|MiApp\\Dominio.csproj|solutionrelative:miapp\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5123131-BAB2-45D0-BE20-57411F0EB14D}|MiApp\\Dominio.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n ii\\obligatorio\\segunda entrega\\aa 295384 segunda entrega final\\obligatorio\\obligatorio\\miapp\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5123131-BAB2-45D0-BE20-57411F0EB14D}|MiApp\\Dominio.csproj|solutionrelative:miapp\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5123131-BAB2-45D0-BE20-57411F0EB14D}|MiApp\\Dominio.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n ii\\obligatorio\\segunda entrega\\aa 295384 segunda entrega final\\obligatorio\\obligatorio\\miapp\\ganado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5123131-BAB2-45D0-BE20-57411F0EB14D}|MiApp\\Dominio.csproj|solutionrelative:miapp\\ganado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5123131-BAB2-45D0-BE20-57411F0EB14D}|MiApp\\Dominio.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n ii\\obligatorio\\segunda entrega\\aa 295384 segunda entrega final\\obligatorio\\obligatorio\\miapp\\bovino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5123131-BAB2-45D0-BE20-57411F0EB14D}|MiApp\\Dominio.csproj|solutionrelative:miapp\\bovino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A55EC5F-1C68-484B-8415-4E22277B5471}|WebApp\\WebApp.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n ii\\obligatorio\\segunda entrega\\aa 295384 segunda entrega final\\obligatorio\\obligatorio\\webapp\\views\\empleado\\listapeones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A55EC5F-1C68-484B-8415-4E22277B5471}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\empleado\\listapeones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A55EC5F-1C68-484B-8415-4E22277B5471}|WebApp\\WebApp.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n ii\\obligatorio\\segunda entrega\\aa 295384 segunda entrega final\\obligatorio\\obligatorio\\webapp\\controllers\\potrerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A55EC5F-1C68-484B-8415-4E22277B5471}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\potrerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A55EC5F-1C68-484B-8415-4E22277B5471}|WebApp\\WebApp.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n ii\\obligatorio\\segunda entrega\\aa 295384 segunda entrega final\\obligatorio\\obligatorio\\webapp\\views\\potrero\\listapotreros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A55EC5F-1C68-484B-8415-4E22277B5471}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\potrero\\listapotreros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E400739D-F2FD-45CA-9B9D-AA65E15192BE}|Obligatorio\\MiApp.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n ii\\obligatorio\\segunda entrega\\aa 295384 segunda entrega final\\obligatorio\\obligatorio\\obligatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E400739D-F2FD-45CA-9B9D-AA65E15192BE}|Obligatorio\\MiApp.csproj|solutionrelative:obligatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5123131-BAB2-45D0-BE20-57411F0EB14D}|MiApp\\Dominio.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n ii\\obligatorio\\segunda entrega\\aa 295384 segunda entrega final\\obligatorio\\obligatorio\\miapp\\ovino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5123131-BAB2-45D0-BE20-57411F0EB14D}|MiApp\\Dominio.csproj|solutionrelative:miapp\\ovino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E400739D-F2FD-45CA-9B9D-AA65E15192BE}|Obligatorio\\MiApp.csproj|f:\\usuario\\desktop\\ort\\programaci\u00F3n ii\\obligatorio\\segunda entrega\\aa 295384 segunda entrega final\\obligatorio\\obligatorio\\obligatorio\\miapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E400739D-F2FD-45CA-9B9D-AA65E15192BE}|Obligatorio\\MiApp.csproj|solutionrelative:obligatorio\\miapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 141,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\WebApp\\Program.cs*",
+              "RelativeToolTip": "WebApp\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:10:46.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PotreroController.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\WebApp\\Controllers\\PotreroController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\PotreroController.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\WebApp\\Controllers\\PotreroController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\PotreroController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAzwDEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:38:59.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListaPotreros.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\WebApp\\Views\\Potrero\\ListaPotreros.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Potrero\\ListaPotreros.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\WebApp\\Views\\Potrero\\ListaPotreros.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Potrero\\ListaPotreros.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T22:37:15.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ovino.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\MiApp\\Ovino.cs",
+              "RelativeDocumentMoniker": "MiApp\\Ovino.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\MiApp\\Ovino.cs",
+              "RelativeToolTip": "MiApp\\Ovino.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T20:10:42.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bovino.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\MiApp\\Bovino.cs",
+              "RelativeDocumentMoniker": "MiApp\\Bovino.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\MiApp\\Bovino.cs",
+              "RelativeToolTip": "MiApp\\Bovino.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T20:10:10.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ganado.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\MiApp\\Ganado.cs",
+              "RelativeDocumentMoniker": "MiApp\\Ganado.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\MiApp\\Ganado.cs",
+              "RelativeToolTip": "MiApp\\Ganado.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T20:09:20.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\MiApp\\Sistema.cs",
+              "RelativeDocumentMoniker": "MiApp\\Sistema.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\MiApp\\Sistema.cs",
+              "RelativeToolTip": "MiApp\\Sistema.cs",
+              "ViewState": "AQIAAHADAAAAAAAAAAAmwIIDAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:53:37.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\WebApp\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\WebApp\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAIAwwIAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:12:02.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\MiApp\\Tarea.cs",
+              "RelativeDocumentMoniker": "MiApp\\Tarea.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\MiApp\\Tarea.cs",
+              "RelativeToolTip": "MiApp\\Tarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:34:18.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vacunacion.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\MiApp\\Vacunacion.cs",
+              "RelativeDocumentMoniker": "MiApp\\Vacunacion.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\MiApp\\Vacunacion.cs",
+              "RelativeToolTip": "MiApp\\Vacunacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:17:25.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InicioPeon.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\WebApp\\Views\\Empleado\\InicioPeon.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Empleado\\InicioPeon.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\WebApp\\Views\\Empleado\\InicioPeon.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Empleado\\InicioPeon.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T23:15:27.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListaPeones.cshtml",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\WebApp\\Views\\Empleado\\ListaPeones.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Empleado\\ListaPeones.cshtml",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\WebApp\\Views\\Empleado\\ListaPeones.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Empleado\\ListaPeones.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T03:52:33.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\Obligatorio\\Program.cs",
+              "RelativeDocumentMoniker": "Obligatorio\\Program.cs",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\Obligatorio\\Program.cs",
+              "RelativeToolTip": "Obligatorio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:17:29.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MiApp.csproj",
+              "DocumentMoniker": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\Obligatorio\\MiApp.csproj",
+              "RelativeDocumentMoniker": "Obligatorio\\MiApp.csproj",
+              "ToolTip": "F:\\USUARIO\\Desktop\\ORT\\Programaci\u00F3n II\\OBLIGATORIO\\SEGUNDA ENTREGA\\AA 295384 Segunda Entrega FINAL\\Obligatorio\\Obligatorio\\Obligatorio\\MiApp.csproj",
+              "RelativeToolTip": "Obligatorio\\MiApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T18:17:24.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

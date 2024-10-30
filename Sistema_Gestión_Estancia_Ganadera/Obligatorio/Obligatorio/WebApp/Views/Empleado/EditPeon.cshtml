@@ -1,0 +1,42 @@
+﻿@model Obligatorio.Dominio.Peon
+<h1>Editar Datos Personales</h1>
+<br />
+<br />
+<form method="post">
+    <table>
+        <thead>
+        </thead>
+        <tbody>
+            <tr>
+                <td><label>Email:</label></td>
+                <td><input asp-for="Email" /></td>
+            </tr>
+            <tr>
+                <td><label>Contraseña:</label></td>
+                <td><input asp-for="Contraseña"/></td>
+            </tr>
+            <tr>
+                <td><label>Nombre:</label></td>
+                <td><input asp-for="Nombre" /></td>
+            </tr>
+            <tr>
+                <td><label>Fecha de Ingreso:</label></td>
+                <td><input asp-for="FechaIngreso" /></td>
+            </tr>
+            <tr>
+                <td><label>Es Usted Residente?</label></td>
+                <td>
+                    <input asp-for="EsResidente" checked />
+                </td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Editar" /></td>
+            </tr>
+        </tbody>
+    </table>
+    <br />
+    @ViewBag.Mensaje
+    <hr />
+</form>
+
+

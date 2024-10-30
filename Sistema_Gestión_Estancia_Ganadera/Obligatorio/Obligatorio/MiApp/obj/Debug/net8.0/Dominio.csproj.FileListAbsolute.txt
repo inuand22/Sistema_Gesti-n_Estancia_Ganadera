@@ -1,0 +1,503 @@
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 13 - 4 (último)\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\49125087\Desktop\Personal\ORT\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Personal\ORT\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Personal\ORT\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Personal\ORT\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\49125087\Desktop\Personal\ORT\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\49125087\Desktop\Personal\ORT\Obligatorio 13-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 15 - 4\Obligatorio 15 - 4\Obligatorio 15-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 15 - 4\Obligatorio 15 - 4\Obligatorio 15-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 15 - 4\Obligatorio 15 - 4\Obligatorio 15-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 15 - 4\Obligatorio 15 - 4\Obligatorio 15-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 15 - 4\Obligatorio 15 - 4\Obligatorio 15-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 15 - 4\Obligatorio 15 - 4\Obligatorio 15-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 15 - 4\Obligatorio 15 - 4\Obligatorio 15-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio 16-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\alumnoFI\Desktop\Obligatorio 16-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio 16-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio 16-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\Obligatorio 16-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio 16-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\Obligatorio 16-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio 16-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio 16-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio 16-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio 16-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 17 - 4\Obligatorio 17-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 17 - 4\Obligatorio 17-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 17 - 4\Obligatorio 17-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 17 - 4\Obligatorio 17-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 17 - 4\Obligatorio 17-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 17 - 4\Obligatorio 17-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 17 - 4\Obligatorio 17-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 17 - 4\Obligatorio 17-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 17 - 4\Obligatorio 17-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 17 - 4\Obligatorio 17-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 17 - 4\Obligatorio 17-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\P2\Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\P2\Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\FINAL Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\FINAL Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\FINAL Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\FINAL Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\FINAL Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\FINAL Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\FINAL Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\FINAL Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\FINAL Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\FINAL Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\FINAL Obligatorio P2 - Primera Entrega - AA 295384\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio 18-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (1)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (4)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (4)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (4)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (4)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (4)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (4)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (4)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (4)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (4)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (4)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (4)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (5)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (5)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (5)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (5)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (5)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (5)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (5)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (5)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (5)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (5)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (5)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\Obligatorio 2da Parte (6)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (7)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (7)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (7)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (7)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (7)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (7)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (7)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (7)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (7)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (7)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (7)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (8)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (8)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (8)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (8)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (8)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (8)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (8)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (8)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (8)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (8)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (8)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\49125087\Desktop\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\49125087\Desktop\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\49125087\Desktop\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\49125087\Desktop\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49125087\Desktop\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\49125087\Desktop\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\49125087\Desktop\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\49125087\Desktop\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\49125087\Desktop\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\49125087\Desktop\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\49125087\Desktop\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (9)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (9)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (9)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (9)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (9)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (9)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (9)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (9)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (9)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (9)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (9)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (10)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (10)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (10)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (10)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (10)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (10)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (10)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (10)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (10)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (10)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (10)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (11)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (11)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (11)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11) (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11) (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11) (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11) (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11) (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11) (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11) (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11) (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11) (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11) (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(11) (3)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(12)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(12)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(12)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\OBLIGATORIO 2da Entrega (MVC)\(12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (12)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (12)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (12)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (12)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(13)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\36474516\Downloads\Código de verdad\(13)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(13)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\(13)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36474516\Downloads\Código de verdad\(13)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\(13)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\36474516\Downloads\Código de verdad\(13)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\(13)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(13)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(13)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\(13)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (14)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (14)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (14)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (14)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (14)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (14)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (14)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (14)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (14)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (14)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (14)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (15)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (15)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (15)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(15)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\36474516\Downloads\Código de verdad\(15)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(15)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\(15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36474516\Downloads\Código de verdad\(15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\(15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\36474516\Downloads\Código de verdad\(15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\(15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\(15)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (16)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (16)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (16)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (16)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (16)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (16)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (16)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (16)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (16)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (16)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio 2da Parte (16)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(17)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\36474516\Downloads\Código de verdad\(17)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(17)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\(17)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36474516\Downloads\Código de verdad\(17)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\(17)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\36474516\Downloads\Código de verdad\(17)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\(17)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(17)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(17)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\(17)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\36474516\Downloads\Código de verdad\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36474516\Downloads\Código de verdad\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\36474516\Downloads\Código de verdad\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\36474516\Downloads\Código de verdad\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\Downloads\Código de verdad\(18)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(19)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(19)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(19)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(19)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(19)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(19)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(19)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(19)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(19)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(19)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(19)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(20)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(20)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(20)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(20)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(20)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(20)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(20)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(20)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(20)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(20)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(20)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\36474516\OneDrive - Universidad Católica del Uruguay\Escritorio\(21)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\36474516\OneDrive - Universidad Católica del Uruguay\Escritorio\(21)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\36474516\OneDrive - Universidad Católica del Uruguay\Escritorio\(21)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\OneDrive - Universidad Católica del Uruguay\Escritorio\(21)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36474516\OneDrive - Universidad Católica del Uruguay\Escritorio\(21)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\36474516\OneDrive - Universidad Católica del Uruguay\Escritorio\(21)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\36474516\OneDrive - Universidad Católica del Uruguay\Escritorio\(21)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\36474516\OneDrive - Universidad Católica del Uruguay\Escritorio\(21)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\36474516\OneDrive - Universidad Católica del Uruguay\Escritorio\(21)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\36474516\OneDrive - Universidad Católica del Uruguay\Escritorio\(21)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\36474516\OneDrive - Universidad Católica del Uruguay\Escritorio\(21)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(22)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(22)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(22)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(22)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(22)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(22)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(22)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(22)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(22)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(22)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(22)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(23)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(23)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(23)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(23)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(23)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(23)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(23)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(23)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(23)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(23)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(23)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(24)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(24)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(24)\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(24)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(24)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(24)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(24)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(24)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(24)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(24)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\(24)\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll
+F:\USUARIO\Desktop\ORT\Programación II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.deps.json
+F:\USUARIO\Desktop\ORT\Programación II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.dll
+F:\USUARIO\Desktop\ORT\Programación II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\Dominio.pdb
+F:\USUARIO\Desktop\ORT\Programación II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\Programación II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\Programación II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\Programación II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\Programación II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\Programación II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.dll
+F:\USUARIO\Desktop\ORT\Programación II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\Dominio.dll
+F:\USUARIO\Desktop\ORT\Programación II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\Dominio.pdb
+F:\USUARIO\Desktop\ORT\Programación II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega FINAL\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\Dominio.dll

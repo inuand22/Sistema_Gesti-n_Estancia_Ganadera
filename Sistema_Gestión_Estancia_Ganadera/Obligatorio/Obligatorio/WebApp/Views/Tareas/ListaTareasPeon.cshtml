@@ -1,0 +1,41 @@
+﻿@model List<Obligatorio.Dominio.AsignacionTarea>
+<h1>Tareas por Peon</h1>
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        text-align: center;
+    }
+
+    th, td {
+        border: 1px solid #000;
+        padding: 8px;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+</style>
+<table>
+    <thead>
+        <tr>
+            <th>Descripcion</th>
+            <th>Fecha De Realizacion</th>
+            <th>FueCompletada</th>
+            <th>Fecha de Cierre</th>
+            <th>Comentario</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Tarea.Descripcion</td>
+                <td>@item.Tarea.FechaRealizacion.ToShortDateString()</td>
+                <td>@item.Tarea.FueCompletada</td>
+                <td>@item.Tarea.FechaCierre.ToShortDateString()</td>
+                <td>@item.Tarea.Comentario</td>
+            </tr>
+        }
+    </tbody>
+</table>

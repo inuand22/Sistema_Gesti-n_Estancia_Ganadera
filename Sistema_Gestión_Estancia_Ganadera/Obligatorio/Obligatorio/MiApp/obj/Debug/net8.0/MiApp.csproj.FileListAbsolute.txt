@@ -1,0 +1,11 @@
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\MiApp.deps.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\MiApp.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\bin\Debug\net8.0\MiApp.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\MiApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\MiApp.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\MiApp.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\MiApp.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\MiApp.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\refint\MiApp.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\MiApp.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\MiApp\obj\Debug\net8.0\ref\MiApp.dll

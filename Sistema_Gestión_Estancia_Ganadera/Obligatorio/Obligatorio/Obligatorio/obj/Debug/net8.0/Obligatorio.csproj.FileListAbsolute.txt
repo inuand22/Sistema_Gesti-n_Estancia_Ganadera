@@ -1,0 +1,144 @@
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\alumnoFI\Desktop\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio (22-3-2024)\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+F:\USUARIO\Desktop\ORT\P2\Obligatorio (22-3-2024)\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio (22-3-2024)\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio (22-3-2024)\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio (22-3-2024)\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio (22-3-2024)\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\P2\Obligatorio (22-3-2024)\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio (22-3-2024)\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\P2\Obligatorio (22-3-2024)\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio (22-3-2024)\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio (22-3-2024)\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio (22-3-2024)\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio (22-3-2024)\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio (22-3-2024)\Obligatorio (22-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (23-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (23-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (23-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (23-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (23-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (23-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (23-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (23-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (23-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (23-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (23-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (23-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (23-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (23-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (25-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (25-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (25-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (25-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (25-3-2024)\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (25-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (25-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (25-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (25-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (25-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (25-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (25-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (25-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio (25-3-2024)\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio 5-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio 5-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio 5-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio 5-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio 5-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio 5-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio 5-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio 5-4\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio 5-4\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio 5-4\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio 5-4\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio 5-4\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio 5-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\36474516\Downloads\Código de verdad\Obligatorio 5-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\MiApp.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\MiApp.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.AssemblyReference.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligato.47458B9C.Up2Date
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+F:\USUARIO\Desktop\ORT\P2\Obligatorio 12 - 4\Obligatorio 12-4\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll

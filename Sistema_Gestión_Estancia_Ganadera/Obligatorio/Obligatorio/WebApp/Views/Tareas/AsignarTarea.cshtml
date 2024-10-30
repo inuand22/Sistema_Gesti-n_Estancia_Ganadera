@@ -1,0 +1,28 @@
+﻿@model Obligatorio.Dominio.Tarea
+<h1>Asignar nueva tarea a peón</h1>
+<br />
+<form method="post">
+	<label asp-for="Descripcion">Ingrese Descripción:</label>
+	<input asp-for="Descripcion" />
+	<br />
+	<br />
+	<label asp-for="FechaRealizacion">Ingrese Fecha para Realización:</label>
+	<input asp-for="FechaRealizacion" />
+	<br />
+	<br />
+	<label asp-for="FueCompletada">Fue Completada?</label>
+	<input asp-for="FueCompletada" />
+	<br />
+	<br />
+	<label asp-for="FechaCierre">Ingrese Fecha Estimada para Cierre</label>
+	<input asp-for="FechaCierre" />
+	<br />
+	<br />
+	<label asp-for="Comentario">Ingrese Comentario</label>
+	<input asp-for="Comentario" />
+	<br />
+	<br />
+	<input type="submit" value="Asignar" />
+	<hr />
+</form>
+@ViewBag.Mensaje

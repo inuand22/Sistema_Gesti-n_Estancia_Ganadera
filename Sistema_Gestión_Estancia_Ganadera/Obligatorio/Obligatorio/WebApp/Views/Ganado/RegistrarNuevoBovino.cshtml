@@ -1,0 +1,49 @@
+﻿@model Obligatorio.Dominio.Bovino
+
+<h1>Registro de nuevo bovino</h1>
+<br />
+<form method="post">
+    <label asp-for="NumCaravana">Número de Caravana:</label>
+    <input asp-for="NumCaravana" />
+    <br />
+    <br />
+    <label asp-for="Raza">Nombre de Raza:</label>
+    <select name="Raza">
+        <option value="Angus">Angus</option>
+        <option value="Hereford">Hereford</option>
+        <option value="Holstein">Holstein</option>
+        <option value="Jersey">Jersey</option>
+        <option value="Brahman">Brahman</option>
+        <option value="Simmental">Simmental</option>
+        <option value="Charolais">Charolais</option>
+        <option value="Limousin">Limousin</option>
+        <option value="Shorthorn">Shorthorn</option>
+        <option value="Gelbvieh">Gelbvieh</option>
+    </select>
+    <br />
+    <br /><label asp-for="FechaNacimiento">Fecha de Nacimiento:</label>
+    <input asp-for="FechaNacimiento" />
+    <br />
+    <br /><label asp-for="CostoAdquisicion">Costo de Adquisición:</label>
+    <input asp-for="CostoAdquisicion" />
+    <br />
+    <br /><label asp-for="CostoAlimentacion">Costo de Alimentación:</label>
+    <input asp-for="CostoAlimentacion" />
+    <br />
+    <br /><label asp-for="PesoActual">Peso Actual:</label>
+    <input asp-for="PesoActual" />
+    <br />
+    <br /><label asp-for="EsHibrido">Es Hibrido?</label>
+    <input asp-for="EsHibrido" />
+    <br />
+    <br /><label asp-for="EsMacho">Es Macho?</label>
+    <input asp-for="EsMacho" />
+    <br />
+    <br />
+    <label asp-for="SeAlimentaPorGrano">Se Alimenta Por Grano/Pastura?</label>
+    <input asp-for="SeAlimentaPorGrano" />
+    <p>(Check para Grano)</p>
+    <input type="submit" value="Registrar" />
+    <hr />
+</form>
+@ViewBag.Mensaje

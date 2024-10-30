@@ -1,0 +1,42 @@
+﻿@model List<Obligatorio.Dominio.Ganado>
+<h1>Asignar un Animal Libre a un Potrero</h1>
+<hr />
+<br />
+<form method="post">
+    <table>
+        <thead>
+        </thead>
+        <tbody>
+            <tr>
+                <td><label>Número de Caravana - Raza </label></td>
+                <td>
+                    <select name="numCaravana">
+                        @if (Model != null)
+                        {
+                            @foreach (var item in Model)
+                            {
+                                <option value="@item.NumCaravana">@item.NumCaravana - @item.Raza</option>
+                            }
+                        }
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td><label>Potrero a Mover: </label></td>
+                <td>
+                    <select name="idPotrero">
+                        @foreach (var item in @ViewBag.Potreros)
+                        {
+                            <option value="@item.ID">@item.Descripcion</option>
+                        }
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td><input type="submit" name="Mover" value="Mover" /></td>
+            </tr>
+        </tbody>
+    </table>
+    <hr />
+</form>
+@ViewBag.Mensaje

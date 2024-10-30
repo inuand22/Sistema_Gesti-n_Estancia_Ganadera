@@ -1,0 +1,52 @@
+﻿@model List<Obligatorio.Dominio.Peon>
+<h1>Lista Peones</h1>
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        text-align: center;
+    }
+
+    th, td {
+        border: 1px solid #000;
+        padding: 8px;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+</style>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Email</th>
+            <th>Contraseña</th>
+            <th>Nombre</th>
+            <th>Fecha de Ingreso</th>
+            <th>EsResidente</th>
+            <th>Tareas</th>
+            <th>Agregar Tarea</th>
+            <th>Dar de baja</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Email</td>
+                <td>************</td>
+                <td>@item.Nombre</td>
+                <td>@item.FechaIngreso.ToShortDateString()</td>
+                <td>@item.EsResidente</td>
+                <td>@Html.ActionLink("Ver", "ListaTareasPeon", "Tareas", new { idPeon = item.Id })</td>
+                <td>@Html.ActionLink("Agregar", "AsignarTarea", "Tareas", new { idPeon = item.Id })</td>
+                <td>
+                    @Html.ActionLink("Baja", "DarDeBaja", "Empleado", new { idPeon = item.Id },
+                             new { onclick = "return confirm('¿Estás seguro de que deseas dar de baja a este empleado?');" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

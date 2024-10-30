@@ -1,0 +1,44 @@
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Release\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Release\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\bin\Release\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\AA 295384 Segunda Entrega\Obligatorio\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\ref\Dominio.dll
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\bin\Release\net8.0\Dominio.deps.json
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\bin\Release\net8.0\Dominio.dll
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\bin\Release\net8.0\Dominio.pdb
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.dll
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\refint\Dominio.dll
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.pdb
+C:\Users\sebas\OneDrive - Universidad Católica del Uruguay\Escritorio\(25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\bin\Release\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\bin\Release\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\bin\Release\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (25)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\ref\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (26)\Obligatorio\Obligatorio\MiApp\bin\Release\net8.0\Dominio.deps.json
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (26)\Obligatorio\Obligatorio\MiApp\bin\Release\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (26)\Obligatorio\Obligatorio\MiApp\bin\Release\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (26)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (26)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (26)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (26)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (26)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (26)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\refint\Dominio.dll
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (26)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\ORT\PROGRAMACIÓN II\OBLIGATORIO\SEGUNDA ENTREGA\AA 295384 Segunda Entrega (26)\Obligatorio\Obligatorio\MiApp\obj\Release\net8.0\ref\Dominio.dll
